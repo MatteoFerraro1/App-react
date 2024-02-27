@@ -1,0 +1,8 @@
+.cartWidget{
+    width: 3rem;
+}
+.badge{
+    color: white;
+    font-weight: bold;
+    background-color: red;
+}
