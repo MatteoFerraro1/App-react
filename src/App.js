@@ -5,7 +5,7 @@ function App() {
   return(
 <div> 
    <Navbar/>
-   <ItemListContainer greeting="Bienvenido a Musiclass"/>
+   <ItemListContainer greeting="Bienvenido a MusiClass"/>
 </div>
   );
  }
