@@ -1,0 +1,7 @@
+.divList{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90vw;
+}
